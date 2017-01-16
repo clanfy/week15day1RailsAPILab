@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  favorite_food: MyString
+  catch_phrase: MyString
+  age: 1
+
+two:
+  name: MyText
+  favorite_food: MyString
+  catch_phrase: MyString
+  age: 1
